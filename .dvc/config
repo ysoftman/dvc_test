@@ -1,4 +1,6 @@
 [core]
-    remote = ysoftman
+    remote = ysoftman_gdrive
 ['remote "ysoftman"']
+    url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
+['remote "ysoftman_gdrive"']
     url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
