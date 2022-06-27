@@ -1,4 +1,4 @@
 [core]
-    remote = storage
-['remote "storage"']
+    remote = ysoftman
+['remote "ysoftman"']
     url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
