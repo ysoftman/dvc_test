@@ -4,5 +4,7 @@
     url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
 ['remote "ysoftman_gdrive"']
     url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
+    gdrive_client_id = 506953552840-u80abj4lgt4rke76al8cpp97pr7kkl2o.apps.googleusercontent.com
+    gdrive_client_secret = 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
 ['remote "ysoftman_s3"']
     url = s3://bill-2278-test
