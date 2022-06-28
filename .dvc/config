@@ -1,6 +1,8 @@
 [core]
-    remote = ysoftman_gdrive
+    remote = ysoftman_s3
 ['remote "ysoftman"']
     url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
 ['remote "ysoftman_gdrive"']
     url = gdrive://1IJetT6gdSjOU6t4BC-VgLya8RDaQQWMU
+['remote "ysoftman_s3"']
+    url = s3://bill-2278-test
